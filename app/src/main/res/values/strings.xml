@@ -5,7 +5,7 @@
     <string name="search_settings">Search</string>
     <string name="share_setting">share</string>
     <string name="delete_setting">delete</string>
-    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id"></string>
     <string name="create_note">Create Note</string>
     <string name="edit_note">Edit Note</string>
     <string name="save_note">Save Note</string>
@@ -49,5 +49,4 @@
     <string name="save">Save</string>
     <string name="loading_list">Loading list...</string>
     <string name="reminder">Reminder</string>
-    <!--<string name="default_web_client_id">652569048309-n3hrkm6vg1v4v8lap1jfvg598mjdgo63.apps.googleusercontent.com</string>-->
 </resources>
