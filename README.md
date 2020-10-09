@@ -12,3 +12,6 @@ Main features of the app includes:-
   * Deleting the notes
   * Sharing the Notes
 
+## Design Document Link
+[https://drive.google.com/file/d/14L0chhCIfd0YYqU7WVYoK3WgOGEUZIm_/view?usp=sharing]
+
